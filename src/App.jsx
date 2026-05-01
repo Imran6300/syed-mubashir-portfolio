@@ -5,7 +5,8 @@ import AboutSection from "./components/AboutSection";
 import ProjectsSection from "./components/projectsection";
 import ContactSection from "./components/ContactSection";
 import Footer from "./components/Footer";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
+
 function App() {
   useSmoothScroll();
 
