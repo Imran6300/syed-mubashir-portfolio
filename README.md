@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Syed Mubashir
@@ -44,3 +45,6 @@ JavaScript (ES6+)   TypeScript   React        Next.js
 Node.js             Express      MongoDB      PostgreSQL
 Tailwind CSS        Docker       Git          REST/GraphQL
 MQTT                ESP32        Socket.io    Chart.js
+=======
+# syed-mubashir-portfolio
+>>>>>>> ce53b2cc7dc23137fe283d8e66855cd4705d95e3
